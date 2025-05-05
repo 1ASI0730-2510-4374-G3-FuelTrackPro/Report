@@ -85,3 +85,36 @@ El siguiente gráfico muestra una línea de tiempo con la evolución semanal de 
 ---
 
 
+## Contenido
+
+- [Carátula](#carátula)
+- [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+- [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Contenido](#contenido)
+- [Student Outcome](#student-outcome)
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1 Startup Profile](#11-startup-profile)
+    - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2 Solution Profile](#12-solution-profile)
+    - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2 Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
+
+---
+
+## Student Outcome
+
+> *Cada participante del equipo debe colaborar a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final que han ayudado a desarrollar cómo las dimensiones del student outcome. Por ello en esta sección debe quedar descrito por escrito, la relación entre el outcome, sus dimensiones y el trabajo que han realizado.*
+
+| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones**  |
+|---|---|---|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **Manuel Sanchez**<br>TB1: Revisión de los commits hechos a las ramas del repo. Revisión de los pull-requests a la rama develop. Coordinación de tareas. <br>**Diego Vicente Seminario Castillo**<br>TB1: Dividió el trabajo correctamente en cada sección del trabajo.<br>**Bryan Ronald Espejo Gamarra**<br>TB1: Coordinó las tareas relacionadas al desarrollo del Landing Page, liderando la organización del flujo de trabajo en GitHub, y asegurando la correcta implementación de convenciones de commits y ramas Gitflow.<br>**César Augusto Navarro Correa**<br>TB1: Participó en la revisión del informe y creación de los commits del repositorio principal.<br>**Juan Diego Mondoñedo**<br>TB1: Coordino las tareas relacionadas a la presentación y grabación de la exposición. | TB1: La comunicación constante entre los miembros fue crucial para evitar conflictos de avances y en nuestro repositorio. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivo** | **Manuel Sanchez**<br>TB1: A través de reuniones logré que el equipo comunciara sus avances y los obstaculos que enfrentaban para apoyarse entre sí <br>**Diego Vicente Seminario Castillo**<br>TB1: Cumpli con el tema de entrevista y analisis, logrando que el equipo tenga una idea más clara de la problemática<br>**Bryan Ronald Espejo Gamarra**<br>TB1: Participó activamente en la planificación del Sprint 1, contribuyendo en la definición de User Stories, la asignación de Story Points y la identificación de prioridades de desarrollo.<br>**César Augusto Navarro Correa**<br>TB1: Realizó parte de la sección de las entrevistas y colaboró en las tareas relacionadas a lo User Personas y experiencia del usuario.<br>**Juan Diego Mondoñedo**<br>TB1: Participó activamente en las reuniones de planificación. Y apoyó en la realización de entrevistas. | Tuvimos complicaciones al coordinar tareas debido a que trabajamos en diferentes ritmos, pero logramos conluir en un determinado plazo anticipado. |
+
+---
+
