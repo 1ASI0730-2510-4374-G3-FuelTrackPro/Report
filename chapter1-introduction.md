@@ -49,3 +49,10 @@
 
 <p align="center"><strong>Mes y Año:</strong> Abril 2025</p>
 
+## Registro de Versiones del Informe
+
+| **Versión** | **Fecha**   | **Autores**                                                                                     | **Descripción de Modificación**                                                                                                                                                                  |
+|-------------|-------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.0         | 26/04/2025  | - Bryan Ronald Espejo Gamarra  <br> - Manuel Ángel Sánchez Arenas  <br> - Juan Diego Javier Mondoñedo Rodríguez <br> - Diego Vicente Seminario Castillo <br> - César Augusto Navarro Correa | Se incluyeron los siguientes capítulos: <br>• Estructura del informe <br>• Capítulo I: Introducción <br>• Capítulo II: Requirements Elicitation & Analysis <br>• Capítulo III: Requirements Specification <br>• Capítulo IV: Product Design <br>• Capítulo V: Product Implementation, Validation & Deployment <br>• Landing Page <br>• Configuración inicial del repositorio <br>• Aplicación de GitFlow y convenciones de commits |
+
+---
